@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AnohCode/ws101-rodas-navbar/static/css/main.08bb7c85.css",
-    "main.js": "/AnohCode/ws101-rodas-navbar/static/js/main.9c2bdea3.js",
-    "static/js/453.ad6eb26e.chunk.js": "/AnohCode/ws101-rodas-navbar/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "/AnohCode/ws101-rodas-navbar/index.html",
-    "main.08bb7c85.css.map": "/AnohCode/ws101-rodas-navbar/static/css/main.08bb7c85.css.map",
-    "main.9c2bdea3.js.map": "/AnohCode/ws101-rodas-navbar/static/js/main.9c2bdea3.js.map",
-    "453.ad6eb26e.chunk.js.map": "/AnohCode/ws101-rodas-navbar/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/ws101-rodas-navbar/static/css/main.08bb7c85.css",
+    "main.js": "/ws101-rodas-navbar/static/js/main.292ad4c5.js",
+    "static/js/453.ad6eb26e.chunk.js": "/ws101-rodas-navbar/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/ws101-rodas-navbar/index.html",
+    "main.08bb7c85.css.map": "/ws101-rodas-navbar/static/css/main.08bb7c85.css.map",
+    "main.292ad4c5.js.map": "/ws101-rodas-navbar/static/js/main.292ad4c5.js.map",
+    "453.ad6eb26e.chunk.js.map": "/ws101-rodas-navbar/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08bb7c85.css",
-    "static/js/main.9c2bdea3.js"
+    "static/js/main.292ad4c5.js"
   ]
 }
